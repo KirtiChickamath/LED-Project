@@ -22,9 +22,8 @@ This simple board lights up two LEDs using 360Ohms current limiting resistors an
 - `BOM` -- Bill of Material
 - `Gerber Files` -- Gerber Files
 - `Images` -- Images
-- `Layers` -- Layers
-- `NC Drills` -- NC Drill
-- `STEP file` -- STEP file
+- `Layer` -- Layers
+- `NC Drill Files` -- NC Drill
 
 ## Images
 
