@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+D:\LED Project\Project Outputs for LED Project\Generates pick and place files\Pick Place for LED.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19-03-25
+Time:       00:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description 
+R2         360R         BottomLayer R0805     688.976       472.441       90       ""          
+D2         Green        BottomLayer LED0603G  688.976       303.150       90       ""          
+R1         360R         TopLayer    R0805     216.535       511.811       90       ""          
+J1         "1X2 Header" TopLayer    HEADER1X2 551.181       404.331       0        ""          
+D1         Green        TopLayer    LED0603G  216.535       275.591       90       ""          
