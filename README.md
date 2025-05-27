@@ -13,6 +13,7 @@ This simple board lights up two LEDs using 360Ohms current limiting resistors an
 
 ### Versions:
 **1.All components fitted** : It includes both LED1 and LED2 and their corresponding current limiting resistors.
+
 **2.LED2 not fitted** : R2 and LED2 are not assembled.
 
 ## Project Files
